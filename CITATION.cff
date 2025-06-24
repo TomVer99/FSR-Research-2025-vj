@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Verlinde"
+  given-names: "Tom"
+title: "Impact of speech on non-invasive sleep metric measurements using an FSR sensor placed under a mattress - Software"
+version: 1.0.0
+date-released: 2025-06-25
+url: "https://github.com/TomVer99/FSR-Research-2025-vj"
+preferred-citation:
+  type: article
+  authors:
+  - family-names: "Verlinde"
+    given-names: "Tom"
+  title: "Impact of speech on non-invasive sleep metric measurements using an FSR sensor placed under a mattress"
+  year: 2025
+  month: 6
+  url: "https://github.com/TomVer99/FSR-Research-2025-vj"
