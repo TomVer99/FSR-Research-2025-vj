@@ -34,6 +34,7 @@ If you would like more details about how the data was gathered, please check the
 | bed_normal  | normal speech                                                                                                                                      |
 | bed_whisper | whispering speech                                                                                                                                  |
 | bed_o_sound | "O" sound                                                                                                                                          |
+| sitting_a   | test measurement where the FSR sensor was placed under the leg whilst sitting on a hard surface.                                                   |
 
 For each dataset, a `.txt` and `.csv` file are present.
 The `.txt` files are from the custom FSR setup, and the `.csv` files are from the Polar H10.
